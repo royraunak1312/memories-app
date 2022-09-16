@@ -1,0 +1,2 @@
+server: https://memories-project-raunak.herokuapp.com/posts
+client: https://memories-app-raunak.netlify.app/
